@@ -23,10 +23,10 @@ Built using modern frontend technologies like **Next.js 15**, **React 19**, **Ty
 <br/>
 
 🌐 **Live Website**  
-[The Royal Pixel Live Website](https://wedding-studio-six.vercel.app/?utm_source=chatgpt.com)
+[The Royal Pixel Live Website](https://wedding-studio-six.vercel.app/)
 
 📂 **GitHub Repository**  
-[The Royal Pixel GitHub Repository](https://github.com/SiddharthKushwaha21/wedding-studio.git?utm_source=chatgpt.com)
+[The Royal Pixel GitHub Repository](https://github.com/SiddharthKushwaha21/wedding-studio.git)
 
 </div>
 
